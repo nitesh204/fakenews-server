@@ -1,0 +1,10 @@
+numpy==2.3.1
+pandas==2.3.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+tzdata==2025.2
+Flask==3.0.0
+flask-cors==6.0.0
+transformers==4.53.3
+torch==2.7.1
